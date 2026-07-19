@@ -39,7 +39,7 @@
 
 /* Start Header Section */
 .header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5) 0% 100%), url(../imgs/hero-bg.jpg.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5) 0% 100%), url(../imgs/hero-bg.jpeg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
